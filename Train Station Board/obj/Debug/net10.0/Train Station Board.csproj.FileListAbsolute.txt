@@ -1,0 +1,14 @@
+/home/kirillsh/Documents/C/Train Station Board/bin/Debug/net10.0/Train Station Board
+/home/kirillsh/Documents/C/Train Station Board/bin/Debug/net10.0/Train Station Board.deps.json
+/home/kirillsh/Documents/C/Train Station Board/bin/Debug/net10.0/Train Station Board.runtimeconfig.json
+/home/kirillsh/Documents/C/Train Station Board/bin/Debug/net10.0/Train Station Board.dll
+/home/kirillsh/Documents/C/Train Station Board/bin/Debug/net10.0/Train Station Board.pdb
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/Train Station Board.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/Train Station Board.AssemblyInfoInputs.cache
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/Train Station Board.AssemblyInfo.cs
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/Train Station Board.csproj.CoreCompileInputs.cache
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/Train Station Board.dll
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/refint/Train Station Board.dll
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/Train Station Board.pdb
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/Train Station Board.genruntimeconfig.cache
+/home/kirillsh/Documents/C/Train Station Board/obj/Debug/net10.0/ref/Train Station Board.dll

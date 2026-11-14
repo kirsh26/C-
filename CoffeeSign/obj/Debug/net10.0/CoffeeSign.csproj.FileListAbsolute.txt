@@ -1,0 +1,14 @@
+/home/kirillsh/Documents/C/CoffeeSign/bin/Debug/net10.0/CoffeeSign
+/home/kirillsh/Documents/C/CoffeeSign/bin/Debug/net10.0/CoffeeSign.deps.json
+/home/kirillsh/Documents/C/CoffeeSign/bin/Debug/net10.0/CoffeeSign.runtimeconfig.json
+/home/kirillsh/Documents/C/CoffeeSign/bin/Debug/net10.0/CoffeeSign.dll
+/home/kirillsh/Documents/C/CoffeeSign/bin/Debug/net10.0/CoffeeSign.pdb
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/CoffeeSign.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/CoffeeSign.AssemblyInfoInputs.cache
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/CoffeeSign.AssemblyInfo.cs
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/CoffeeSign.csproj.CoreCompileInputs.cache
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/CoffeeSign.dll
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/refint/CoffeeSign.dll
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/CoffeeSign.pdb
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/CoffeeSign.genruntimeconfig.cache
+/home/kirillsh/Documents/C/CoffeeSign/obj/Debug/net10.0/ref/CoffeeSign.dll

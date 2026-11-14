@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Fix the Flower Shop Receipt/1.0.0": {
+        "runtime": {
+          "Fix the Flower Shop Receipt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fix the Flower Shop Receipt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

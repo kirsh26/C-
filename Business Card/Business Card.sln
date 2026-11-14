@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Card", "Business Card.csproj", "{B08505BF-E7A6-424D-9A4D-72679E63AEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08505BF-E7A6-424D-9A4D-72679E63AEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08505BF-E7A6-424D-9A4D-72679E63AEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08505BF-E7A6-424D-9A4D-72679E63AEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08505BF-E7A6-424D-9A4D-72679E63AEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
